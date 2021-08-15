@@ -11,6 +11,10 @@ Probably this project will be obsolete as soon as pip natively supports `pyproje
 
 Until there, have fun!
 
+# Original create\_setup.py
+
+I got the create\_setup.py from @adamghill. Thanks!
+https://gist.github.com/adamghill/8a96311b5cf1790c72a0b825ffe4f6d2
 
 # How to use it
 
